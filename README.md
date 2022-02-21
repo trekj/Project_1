@@ -34,10 +34,10 @@ Prior to ARK, Cathie spent twelve years at AllianceBernstein as CIO of Global Th
 We will be working out of a Jupyter Notebook. We will use the Alpaca API to make our API call. We will be using hvplot to make our interactive visualizations. We will use the MCForecast tool to do our MC Simulation. 
 
 ## Contributors 
-[Omar Eid](www.github.com/ore93)
+[Omar Eid](https://github.com/ore93)
 
 [James Tagapan](https://github.com/trekj)
 
-[Elgin James](www.github.com/nustalgic)
+[Elgin James](https://github.com/nustalgic)
 
-[Kevin Scott](www.github.com/kevintscott01)
+[Kevin Scott](https://github.com/kevintscott01)
