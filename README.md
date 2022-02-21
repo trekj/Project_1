@@ -36,7 +36,7 @@ We will be working out of a Jupyter Notebook. We will use the Alpaca API to make
 ## Contributors 
 [Omar Eid](www.github.com/ore93)
 
-[James Tagapan](www.github.com/trekj)
+[James Tagapan](https://github.com/trekj)
 
 [Elgin James](www.github.com/nustalgic)
 
