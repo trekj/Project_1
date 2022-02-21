@@ -23,7 +23,7 @@ ARKG is the Genomic Revolution ETF.
 
 ARKF is the Fintech Innovation ETF.
 
-ARKX is the Space Exploration & Innovation ETF.
+ARKX is the Space Exploration & Innovation ETF. (This fund is brand new and thus lacks the historical data needed to run an analysis so we left it out.)
 
 ## Who is Cathie Wood?
 Cathie registered ARK Investment Management LLC (“ARK”) as an investment advisor with the U.S. Securities and Exchange Commission in January 2014. With over 40 years of experience identifying and investing in innovation, Cathie founded ARK to focus solely on disruptive innovation while adding new dimensions to research.
