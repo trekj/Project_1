@@ -38,6 +38,6 @@ We will be working out of a Jupyter Notebook. We will use the Alpaca API to make
 
 [James Tagapan](https://github.com/trekj)
 
-[Elgin James](https://github.com/nustalgic)
+[Elgin Braggs](https://github.com/nustalgic)
 
 [Kevin Scott](https://github.com/kevintscott01)
